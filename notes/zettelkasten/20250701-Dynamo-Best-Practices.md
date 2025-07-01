@@ -1,5 +1,5 @@
 ---
-title: "Dynamo Best Practices"
+title: Dynamo Best Practices
 date: 2025-07-01
 tags: [Revit, Dynamo, Best-Practices, Automation]
 ---
