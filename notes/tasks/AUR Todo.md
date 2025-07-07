@@ -18,5 +18,11 @@
 - [ ] DigitalTeam_Revit Quantities take-off
 
 ## Client A Project
-- [ ] Craete Dashboard for CHW (Use CHN as Referrence.)
-- [ ] Start from Google Working Account
+- [X] Craete Dashboard for CHW (Use CHN as Referrence.) (7 July 2025)Start from Google Working Account 
+  
+## SharkFin (Construction Phase)
+- [x] Update dashboard
+  
+## Sathorn 21 Project
+- [ ] Point cloud model submission
+- [ ] 
